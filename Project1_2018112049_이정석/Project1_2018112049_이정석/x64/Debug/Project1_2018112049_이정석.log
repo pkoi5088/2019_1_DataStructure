@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : 'd:\내가 헌내기라니\ㅈㄺㅈ\플젝\project1\project1_2018112049_이정석\x64\debug\project1_2018112049_이정석.exe' 경로에 대한 액세스가 거부되었습니다.
+  AddressBook.cpp
+  main.cpp
+d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project1\project1_2018112049_이정석\project1_2018112049_이정석\addressbook.cpp(70): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project1\project1_2018112049_이정석\project1_2018112049_이정석\addressbook.cpp(55): note: 클래스 템플릿 멤버 함수 'void AddressBook<std::string>::remove(ListNode<DT> *)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              DT=std::string
+          ]
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project1\project1_2018112049_이정석\project1_2018112049_이정석\addressbook.cpp(184): note: 컴파일 중인 함수 템플릿 인스턴스화 'void AddressBook<std::string>::remove(ListNode<DT> *)'에 대한 참조를 확인하십시오.
+          with
+          [
+              DT=std::string
+          ]
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project1\project1_2018112049_이정석\project1_2018112049_이정석\addressbook.cpp(32): note: 클래스 템플릿 멤버 함수 'AddressBook<std::string>::AddressBook(void)'을(를) 컴파일하고 있습니다.
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project1\project1_2018112049_이정석\project1_2018112049_이정석\main.cpp(6): note: 컴파일 중인 함수 템플릿 인스턴스화 'AddressBook<std::string>::AddressBook(void)'에 대한 참조를 확인하십시오.
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project1\project1_2018112049_이정석\project1_2018112049_이정석\main.cpp(6): note: 컴파일 중인 클래스 템플릿 인스턴스화 'AddressBook<std::string>'에 대한 참조를 확인하세요.
+  코드를 생성하고 있습니다...
+  Project1_2018112049_이정석.vcxproj -> D:\내가 헌내기라니\ㅈㄺㅈ\플젝\Project1\Project1_2018112049_이정석\x64\Debug\Project1_2018112049_이정석.exe

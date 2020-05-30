@@ -1,0 +1,59 @@
+﻿  main.cpp
+d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.cpp(202): error C2451: 'void' 형식의 조건식은 올바르지 않습니다.
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.cpp(202): note: void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.cpp(176): note: 클래스 템플릿 멤버 함수 'void MicroFB<std::string>::follow(DT &,DT &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              DT=std::string
+          ]
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\main.cpp(36): note: 컴파일 중인 함수 템플릿 인스턴스화 'void MicroFB<std::string>::follow(DT &,DT &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              DT=std::string
+          ]
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\main.cpp(6): note: 컴파일 중인 클래스 템플릿 인스턴스화 'MicroFB<std::string>'에 대한 참조를 확인하세요.
+d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.cpp(206): error C2248: 'NameNode<DT>::NameNode': private 멤버('NameNode<DT>' 클래스에서 선언)에 액세스할 수 없습니다.
+          with
+          [
+              DT=std::string
+          ]
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.h(10): note: 'NameNode<DT>::NameNode' 선언을 참조하십시오.
+          with
+          [
+              DT=std::string
+          ]
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.h(24): note: 'NameNode<DT>' 선언을 참조하십시오.
+          with
+          [
+              DT=std::string
+          ]
+d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.cpp(207): error C2248: 'NameNode<DT>::NameNode': private 멤버('NameNode<DT>' 클래스에서 선언)에 액세스할 수 없습니다.
+          with
+          [
+              DT=std::string
+          ]
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.h(10): note: 'NameNode<DT>::NameNode' 선언을 참조하십시오.
+          with
+          [
+              DT=std::string
+          ]
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.h(24): note: 'NameNode<DT>' 선언을 참조하십시오.
+          with
+          [
+              DT=std::string
+          ]
+d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.cpp(243): error C2171: '!': 'void' 형식의 피연산자에는 맞지 않습니다.
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.cpp(217): note: 클래스 템플릿 멤버 함수 'void MicroFB<std::string>::unfollow(DT &,DT &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              DT=std::string
+          ]
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\main.cpp(40): note: 컴파일 중인 함수 템플릿 인스턴스화 'void MicroFB<std::string>::unfollow(DT &,DT &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              DT=std::string
+          ]
+d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.cpp(243): error C2451: 'void' 형식의 조건식은 올바르지 않습니다.
+  d:\내가 헌내기라니\ㅈㄺㅈ\플젝\project2\project2_2018112049_이정석\project2_2018112049_이정석\microfb.cpp(243): note: void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+  MicroFB.cpp
+  코드를 생성하고 있습니다...
